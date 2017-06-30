@@ -39,7 +39,7 @@ body{
 	width: 35px;
 	height: 35px;
 	display: block;
-	background-image: url(https://s3-us-wer-2.amazonaws.com/s.cdpn.io/6001/menu.png);
+	background-image: url("https://s3-us-wer-2.amazonaws.com/s.cdpn.io/6001/menu.png");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 25px;
